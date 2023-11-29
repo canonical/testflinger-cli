@@ -1,3 +1,11 @@
+======================
+THIS PROJECT HAS MOVED
+======================
+
+See https://github.com/canonical/testflinger for changes to this in the future
+
+----
+
 ===============
 Testflinger CLI
 ===============
